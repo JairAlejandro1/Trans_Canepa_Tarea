@@ -1,13 +1,13 @@
-API de Transferencias
+## API de Transferencias
 
 Este proyecto es una aplicación Java usando Spring Boot que permite gestionar cuentas y realizar transferencias entre ellas mediante una API REST documentada con Swagger.
 
+---
 
-Requisitos para ejecutar
+## Requisitos para ejecutar
 
 1. Tener instalado **XAMPP** y que el servicio de **MySQL esté activo**.
 2. Crear una base de datos llamada: transferencias_db (se encuentra dentro de los archivos del proyecto)
-
 3. Descargar el proyecto, y ejecutar la aplicación desde tu IDE en este caso se usó: IntelliJ
 4. Ir al navegador y abrir Swagger en la siguiente URL: http://localhost:8080/swagger-ui/index.html
 5. Desde ahí se puede probar las funciones del proyecto tales como: crear cuentas, realizar transferencias y mostrar las cuentas ya existentes
