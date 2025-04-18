@@ -38,6 +38,11 @@ Este proyecto es una aplicación Java usando Spring Boot que permite gestionar c
 - MySQL con conexión vía `mysql-connector-j`
 - Swagger
 
+---
+
+## Diagrama UML
+
+![uml_transferencias_tarea](https://github.com/user-attachments/assets/1711d23c-3182-45db-8ab2-ab2507c3cf3c)
 
 
 
